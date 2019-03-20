@@ -19,12 +19,12 @@ If you have any questions, please contact [pyuzhang@tju.edu.cn](mailto:123456789
 If you find FOSR useful in your research, please consider citing:\
 
 @article{
-    title={Fast and object-adaptive spatial regularization for correlation filters based tracking},
-		author={P.Zhang, Q.Guo, W.Feng},
-		journal = {Neurocomputing},
-		Year={2019},
-		Volume={337},
-    Number={14}
-		Pages={129-143}
+    title={Fast and object-adaptive spatial regularization for correlation filters based tracking},\
+		author={P.Zhang, Q.Guo, W.Feng},\
+		journal = {Neurocomputing},\
+		Year={2019},\
+		Volume={337},\
+    		Number={14},\
+		Pages={129-143}\
 }
 
