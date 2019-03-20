@@ -14,4 +14,17 @@ The code has tested on Intel Xeon E5-2687w @3.10GHz 128G RAM
 # Contact 
 
 If you have any questions, please contact [pyuzhang@tju.edu.cn](mailto:123456789@qq.com)
+# Citing FOSR
+
+If you find FOSR useful in your research, please consider citing:\
+
+@article{
+    title={Fast and object-adaptive spatial regularization for correlation filters based tracking},
+		author={P.Zhang, Q.Guo, W.Feng},
+		journal = {Neurocomputing},
+		Year={2019},
+		Volume={337},
+    Number={14}
+		Pages={129-143}
+}
 
