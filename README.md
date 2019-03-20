@@ -9,7 +9,8 @@ Pengyu Zhang\*, Qing Guo\*, Wei Feng, in Neruocomputing.
 The code has tested on Intel Xeon E5-2687w @3.10GHz 128G RAM
 * Matlab 2015a
 # Results 
-![Results](URL title)
+![Prec](https://github.com/GitHubZhangpy/FOSR/blob/master/prec_revision.eps)
+![Prec](https://github.com/GitHubZhangpy/FOSR/blob/master/succ_revision.eps)
 # Contact 
 
 If you have any questions, please contact [pyuzhang@tju.edu.cn](mailto:123456789@qq.com)
